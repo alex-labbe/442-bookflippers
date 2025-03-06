@@ -23,6 +23,20 @@ This GitHub repository serves as a table of contents for our deliverables. The c
 - **Lesson Plan (Slides):** [https://www.canva.com/design/DAGgJbrZ9MA/UB0P2SUKSepGPKC1pAy98Q/edit?utm_content=DAGgJbrZ9MA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 - **3D Model Files:** Includes `.STL` and `gcode` files of created models.
 - **Pictures:**
+![20250227_162546](https://github.com/user-attachments/assets/ced6255a-dd66-414b-8f8c-17f99c752cc3)
+![printer](https://github.com/user-attachments/assets/b8cb9eaf-7762-47bd-bbca-971615edecea)
+![inprogressprint2](https://github.com/user-attachments/assets/8072160a-eb40-40e4-9604-4850bc69af3f)
+![inprogressprint1](https://github.com/user-attachments/assets/26248fd0-d227-49fa-a578-fbc8a95d65de)
+![finishedprint33](https://github.com/user-attachments/assets/6fe45e08-03fd-4381-89da-eef44f77ec85)
+![finishedprint11](https://github.com/user-attachments/assets/b5b591b9-08ce-456a-a1c8-974d27060e79)
+![finishedprint3](https://github.com/user-attachments/assets/83804c35-ed9b-47de-910d-4c29ddacd081)
+![finishedprint2](https://github.com/user-attachments/assets/67fe35fe-9276-494b-8d99-00fad3063e0d)
+![finishedprint1](https://github.com/user-attachments/assets/d349c0c3-5558-4b40-81f1-12aa34ad6e9b)
+![20250305_171502](https://github.com/user-attachments/assets/58b81c11-69fa-4335-a38f-db51066ea1a9)
+![20250305_171500](https://github.com/user-attachments/assets/9d7e74e4-5113-423c-8488-251f5aebe286)
+![20250227_162547](https://github.com/user-attachments/assets/43606ddd-42b4-4d74-9a98-7e1144722f2a)
+
+- 
   - 3D Models: *TinkerCad, Onshape, AutoDesk Fusion 360*
   - Printed Objects: *TinkerCad cube, Onshape cube*
 - **3D Printing Protocol:** 
