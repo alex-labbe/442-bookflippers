@@ -44,8 +44,3 @@ This GitHub repository serves as a table of contents for our deliverables. The c
 - **Other Files:** 
   - Slide Deck/Lesson Plan: Downloaded from Canva
 
-## Project Links
-- **GitHub Repository:** [Insert link here]
-- **Lesson Plan (Slides):** [Insert link here]
-- **3D Printing Protocol (PDF):** [Insert link here]
-- **Interactive Figma Diagram:** [Insert link here]
