@@ -36,11 +36,9 @@ This GitHub repository serves as a table of contents for our deliverables. The c
 ![20250305_171500](https://github.com/user-attachments/assets/9d7e74e4-5113-423c-8488-251f5aebe286)
 
 - 
-  - 3D Models: *TinkerCad, Onshape, AutoDesk Fusion 360*
-  - Printed Objects: *TinkerCad cube, Onshape cube*
+  - 3D Models: **TinkerCAD Cube**[https://github.com/alex-labbe/442-bookflippers/blob/main/TinkerCad%20Cube.stl] **Onshape Cube**[https://github.com/alex-labbe/442-bookflippers/tree/main/Onshape%20Cube] **Fusion360 Fortnite Puzzle**[[https://github.com/alex-labbe/442-bookflippers/blob/main/TinkerCad%20Cube.stl](https://github.com/alex-labbe/442-bookflippers/tree/main/v2flat)]
+    
 - **3D Printing Protocol:** 
-  - Step-by-step guide in this README and available as a [PDF](#).
-- **Interactive Figma Diagram:** [Insert link here]
-- **Other Files:** 
-  - Slide Deck/Lesson Plan: Downloaded from Canva
+  - Step-by-step guide in this README and available as a [PDF](https://github.com/alex-labbe/442-bookflippers/blob/main/Printing%20Protocol.pdf).
+
 
