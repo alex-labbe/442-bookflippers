@@ -39,9 +39,9 @@ This GitHub repository serves as a table of contents for our deliverables. The c
   - 3D Models: [**TinkerCAD Cube**](https://github.com/alex-labbe/442-bookflippers/blob/main/TinkerCad%20Cube.stl) [**Onshape Cube**](https://github.com/alex-labbe/442-bookflippers/tree/main/Onshape%20Cube) [**Fusion360 Fortnite Puzzle**](https://github.com/alex-labbe/442-bookflippers/tree/main/v2flat)
     
 - **3D Printing Protocol:** 
-  - Step-by-step guide in this README and available as a [PDF](https://github.com/alex-labbe/442-bookflippers/blob/main/Printing%20Protocol.pdf).
+  - Step-by-step guide= available as a [PDF](https://github.com/alex-labbe/442-bookflippers/blob/main/Printing%20Protocol.pdf).
 - **Resources used:**
-  - [TinkerCad Cube](https://google.com)
+  - [TinkerCad Cube]([https://google.com](https://www.tinkercad.com/projects/Easy-Fun-Rubiks-Puzzle-With-Tinkercad))
   - [Fortnite Puzzle](https://weareprintlab.com/blog/designing-3d-jigsaw-puzzles-in-fusion-360/) 
 
 
