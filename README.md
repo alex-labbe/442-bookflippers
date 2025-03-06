@@ -20,7 +20,7 @@ We will use two metrics to judge project completion: **deliverables** (concrete)
 ## Project Architecture
 This GitHub repository serves as a table of contents for our deliverables. The components are:
 
-- **Lesson Plan (Slides):** [https://www.canva.com/design/DAGgJbrZ9MA/UB0P2SUKSepGPKC1pAy98Q/edit?utm_content=DAGgJbrZ9MA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+- [**Lesson Plan (Slides):**](https://www.canva.com/design/DAGgJbrZ9MA/UB0P2SUKSepGPKC1pAy98Q/edit?utm_content=DAGgJbrZ9MA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **3D Model Files:** Includes `.STL` and `gcode` files of created models.
 - **Pictures:**
 ![20250227_162546](https://github.com/user-attachments/assets/ced6255a-dd66-414b-8f8c-17f99c752cc3)
