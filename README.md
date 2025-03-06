@@ -40,5 +40,9 @@ This GitHub repository serves as a table of contents for our deliverables. The c
     
 - **3D Printing Protocol:** 
   - Step-by-step guide in this README and available as a [PDF](https://github.com/alex-labbe/442-bookflippers/blob/main/Printing%20Protocol.pdf).
+- **Resources used:**
+  - [TinkerCad Cube](https://google.com)
+  - [Fortnite Puzzle](https://weareprintlab.com/blog/designing-3d-jigsaw-puzzles-in-fusion-360/) 
+
 
 
